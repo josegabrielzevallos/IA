@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(367,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(367,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(368,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(368,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(369,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(369,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(370,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(370,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(371,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(371,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(381,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(382,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(383,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(383,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(655,7): warning C4101: 'TheChosenOne': unreferenced local variable
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\main.cpp(278): warning C4715: 'getGoodMove': not all control paths return a value
+  T2-TicTacToe.vcxproj -> C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T2-TicTacToe\Debug\T2-TicTacToe.exe
