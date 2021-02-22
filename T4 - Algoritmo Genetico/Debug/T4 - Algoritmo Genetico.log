@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(58,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(59,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(174,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(286,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(336,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(338,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(364,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(366,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\main.cpp(488,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  T4 - Algoritmo Genetico.vcxproj -> C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T4 - Algoritmo Genetico\Debug\T4 - Algoritmo Genetico.exe
