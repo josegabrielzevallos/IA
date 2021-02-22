@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T1-Grafo\main.cpp(82,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T1-Grafo\main.cpp(83,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T1-Grafo\main.cpp(90,23): warning C4018: '<': signed/unsigned mismatch
+  Trabajos de IA.vcxproj -> C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\AI-2020-V\T1-Grafo\Debug\Trabajos de IA.exe
